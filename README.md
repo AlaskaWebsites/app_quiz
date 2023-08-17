@@ -13,6 +13,7 @@ O jogo é um Quiz de perguntas e resposta
 1. Clone o repositório do GitHub.
 2. Abra o projeto no seu editor de código.
 3. Instale o pacote do projeto com npm install.
+4. Starte o projeto com npm run serve.
 
 # Créditos
 
